@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="65cm" height="66cm" viewBox="116 14 1284 1320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="672.25" y="15.7454" width="102.893" height="41.7505"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="672.25" y="15.7454" width="102.893" height="41.7505"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="672.25" y="15.7454" width="102.893" height="41.7505"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="723.696" y="41.8944">
+      <tspan x="723.696" y="41.8944">START </tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="617.331" y="121.929" width="215.839" height="41.7505"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="617.331" y="121.929" width="215.839" height="41.7505"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="617.331" y="121.929" width="215.839" height="41.7505"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="725.251" y="148.078">
+      <tspan x="725.251" y="148.078">STREAM_LOG INITIALISIEREN</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="637.163" y="230.01" width="174.198" height="41.7505"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="637.163" y="230.01" width="174.198" height="41.7505"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="637.163" y="230.01" width="174.198" height="41.7505"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="724.262" y="256.159">
+      <tspan x="724.262" y="256.159">AUSGABE STREAM_LOG</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="516.824" y="333.282" width="418.439" height="41.7505"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="516.824" y="333.282" width="418.439" height="41.7505"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="516.824" y="333.282" width="418.439" height="41.7505"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="726.043" y="359.431">
+      <tspan x="726.043" y="359.431">FILME/SERIEN AUS TEXTDATEI LADEN</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="505.594" y="466.234" width="445.137" height="41.7505"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="505.594" y="466.234" width="445.137" height="41.7505"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="505.594" y="466.234" width="445.137" height="41.7505"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="728.162" y="492.383">
+      <tspan x="728.162" y="492.383">HAUPTSCHLEIFE (WIEDERHOLE MENÜ SOLANGE NICHT BEENDET)</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="602.252" y="635.11" width="251.821" height="76.9088"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="602.252" y="635.11" width="251.821" height="76.9088"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="602.252" y="635.11" width="251.821" height="76.9088"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="728.162" y="661.259">
+      <tspan x="728.162" y="661.259">STREAM_LOG MENÜ ANZEIGEN</tspan>
+      <tspan x="728.162" y="677.259">(1: HINZUFUEGEN, 2: ANZEIGEN,</tspan>
+      <tspan x="728.162" y="693.259">3: SUCHEN, 4: BEENDEN)</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="564.794" y="795.639" width="326.979" height="62.7172"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="564.794" y="795.639" width="326.979" height="62.7172"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="564.794" y="795.639" width="326.979" height="62.7172"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="728.283" y="832.27">
+      <tspan x="728.283" y="832.27">EINGABE: BENUTZEREINGABE LESEN</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="118.085" y="1011.75" width="247.481" height="199.963"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="118.085" y="1011.75" width="247.481" height="199.963"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="118.085" y="1011.75" width="247.481" height="199.963"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="241.825" y="1037.9">
+      <tspan x="241.825" y="1037.9">WENN "1" (HINZUFUEGEN)</tspan>
+      <tspan x="241.825" y="1053.9">-------------------------------------------</tspan>
+      <tspan x="241.825" y="1069.9">FILM -DETAILS EINGEBEN </tspan>
+      <tspan x="241.825" y="1085.9">PRÜFE: TITEL EXISIERT?</tspan>
+      <tspan x="241.825" y="1101.9">JA: MELDUNG "EXISTIERT BEREITS</tspan>
+      <tspan x="241.825" y="1117.9">NEIN: FILM HINZUFÜGEN</tspan>
+      <tspan x="241.825" y="1133.9"></tspan>
+      <tspan x="241.825" y="1149.9">LISTE SPEICHERN</tspan>
+      <tspan x="241.825" y="1165.9">MELDUNG "GESPEICHERT"</tspan>
+      <tspan x="241.825" y="1181.9"></tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="447.086" y="1014.77" width="162.387" height="94.4879"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="447.086" y="1014.77" width="162.387" height="94.4879"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="447.086" y="1014.77" width="162.387" height="94.4879"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="528.28" y="1040.92">
+      <tspan x="528.28" y="1040.92">WENN "4" </tspan>
+      <tspan x="528.28" y="1056.92">----------------</tspan>
+      <tspan x="528.28" y="1072.92">SCHLEIFE BEENDEN</tspan>
+      <tspan x="528.28" y="1088.92">MELDUNG "BEENDET"</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="684.018" y="1021.56" width="199.304" height="164.804"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="684.018" y="1021.56" width="199.304" height="164.804"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="684.018" y="1021.56" width="199.304" height="164.804"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="783.669" y="1047.71">
+      <tspan x="783.669" y="1047.71">WENN "3" (SUCHEN)</tspan>
+      <tspan x="783.669" y="1063.71">--------------------------</tspan>
+      <tspan x="783.669" y="1079.71">SUCHBEGRIFF EINGEBEN</tspan>
+      <tspan x="783.669" y="1095.71"></tspan>
+      <tspan x="783.669" y="1111.71">SUCHE IN LISTE</tspan>
+      <tspan x="783.669" y="1127.71"></tspan>
+      <tspan x="783.669" y="1143.71">TREFFER ANZEIGEN </tspan>
+      <tspan x="783.669" y="1159.71">ODER "NICHTS GEFUNDEN"</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="935.573" y="1032.39" width="181.834" height="112.067"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="935.573" y="1032.39" width="181.834" height="112.067"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="935.573" y="1032.39" width="181.834" height="112.067"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1026.49" y="1058.54">
+      <tspan x="1026.49" y="1058.54">WENN "2" (ANZEIGEN)</tspan>
+      <tspan x="1026.49" y="1074.54">------------------------------</tspan>
+      <tspan x="1026.49" y="1090.54">ALLE FILME/SERIEN</tspan>
+      <tspan x="1026.49" y="1106.54">DER LISTE ANZEIGEN </tspan>
+      <tspan x="1026.49" y="1122.54"></tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="499.805" y="1291.3" width="58.9451" height="41.7505"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="499.805" y="1291.3" width="58.9451" height="41.7505"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="499.805" y="1291.3" width="58.9451" height="41.7505"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="529.277" y="1317.45">
+      <tspan x="529.277" y="1317.45">ENDE</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" x1="723.696" y1="57.4959" x2="725.132" y2="117.017"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" points="719.434,108.621 725.191,119.472 730.418,108.356 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" x1="725.251" y1="163.679" x2="724.335" y2="225.098"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" points="718.969,216.486 724.298,227.553 729.955,216.65 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" x1="724.262" y1="271.76" x2="725.901" y2="328.371"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" points="720.163,320.003 725.972,330.826 731.145,319.684 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" x1="726.043" y1="375.032" x2="728.048" y2="461.322"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" points="722.358,452.922 728.105,463.778 733.343,452.666 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" x1="728.162" y1="507.985" x2="728.162" y2="630.197"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" points="722.669,621.667 728.162,632.654 733.656,621.667 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" x1="728.162" y1="712.019" x2="728.275" y2="790.725"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" points="722.77,782.203 728.28,793.182 733.757,782.186 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" x1="528.28" y1="1109.25" x2="529.25" y2="1286.39"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" points="523.71,1277.88 529.264,1288.84 534.697,1277.83 "/>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="1163.45" y="1033.41" width="235.725" height="94.4879"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="1163.45" y="1033.41" width="235.725" height="94.4879"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #000000" x="1163.45" y="1033.41" width="235.725" height="94.4879"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1281.31" y="1059.56">
+      <tspan x="1281.31" y="1059.56">WENN EINGABE UNGÜLTIG</tspan>
+      <tspan x="1281.31" y="1075.56">-------------------------------------</tspan>
+      <tspan x="1281.31" y="1091.56">MELDUNG "EINGABE UNGÜLTIG </tspan>
+      <tspan x="1281.31" y="1107.56">BITTE 1,2,3 ODER 4 EINGEBEN"</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" x1="564.794" y1="858.356" x2="369.46" y2="1008.75"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" points="372.867,999.199 367.513,1010.25 379.57,1007.9 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" x1="646.538" y1="858.356" x2="531.243" y2="1010.85"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" points="532.005,1000.73 529.761,1012.81 540.77,1007.36 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" x1="728.283" y1="858.356" x2="782.089" y2="1016.91"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" points="774.147,1010.6 782.879,1019.24 784.551,1007.07 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" x1="810.027" y1="858.356" x2="932.699" y2="1028.41"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" points="923.253,1024.7 934.136,1030.4 932.164,1018.28 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" x1="891.772" y1="858.356" x2="1218.04" y2="1031.11"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.19739; stroke: #7f7f7f" points="1207.93,1031.98 1220.21,1032.26 1213.07,1022.27 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #7f7f7f;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="940.812" y="824.172">
+    <tspan x="940.812" y="824.172">(ALLE MÖGLICHEN EINGABEN FÜHREN ZURUECK IN DIE HAUPTSCHLEIFE, </tspan>
+    <tspan x="940.812" y="840.172">AUßER "4" BEENDET DIE ANWENDUNG)</tspan>
+  </text>
+</svg>
